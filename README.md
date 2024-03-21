@@ -23,9 +23,15 @@ a-star.py:
 ## Nota
 Pasos para proceder con la simulación:
 1. Instalar el entorno gymnasium-csv
+   
 	$ cd gymnsaium-csv-026
+
 	$ pip install -e .
-2. Ejecutar el respectivo script:
+
+3. Ejecutar el respectivo script:
+   
 	$ cd gymnasium-csv-026/examples
+
 	$ python loop.py
+
 	$ python a-star.py
