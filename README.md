@@ -12,11 +12,11 @@ El script "~\gymnasium-csv-026\examples\loop.py" simula la navegación del robot
 4. Se ha grabado una demo para cada script que se encuentran subidas a YouTube.
 
 ## Enlaces a las demos
-loop.py:
+loop.py
 
 [![loop.py](https://img.youtube.com/vi/ctfSteCfg6E/maxresdefault.jpg)](https://youtu.be/ctfSteCfg6E)
 
-a-star.py:
+a-star.py
 
 [![loop.py](https://img.youtube.com/vi/IR3omSR6HYw/maxresdefault.jpg)](https://youtu.be/IR3omSR6HYw)
 
